@@ -10,7 +10,7 @@ One reusable codebase, separate restaurant deployments for now. Pearl Island is 
 
 Kean presented V1 and has not built V2 yet. This repo has only blank customer/staff canvases and no functioning orders/accounts/access controls/integrations.
 
-Diego explicitly excludes all PRDs from initialization while comparing drafts, including Claude's, to produce a merged version. Do not upload one, create a placeholder PRD or treat retained planning notes as a substitute approval. The build-plan screen inventory is candidate planning context for that later review.
+The Catering PRD was added on October 27, 2026 as docs/PRD.md, a draft for Diego and Kean review. It is universal and names no customer. Pearl Island specifics live in docs/pilots/pearl-island.md. The build-plan screen inventory is candidate planning context to reconcile with the PRD.
 
 ## Important unresolved business/operating decisions
 

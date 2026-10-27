@@ -6,7 +6,7 @@ Standalone catering software for restaurant customers and staff. Repository owne
 
 An independent Next.js App Router, TypeScript and plain-CSS skeleton. `/` and `/staff` are intentionally empty white canvases. There are no orders, accounts, staff access controls, persistence or integrations. The staff path exposes no records and is not a working authenticated workspace.
 
-**PRD pending:** Diego is comparing separate drafts, including one prepared with Claude, and will add the merged catering PRD later. No PRD or PRD placeholder file is included. Kean has not built V2 yet; planning notes are not evidence of implemented features or approval of a new feature scope.
+**PRD:** [docs/PRD.md](docs/PRD.md) is the universal Catering PRD and the source of truth for product scope. It names no customer; pilot-specific details live in [docs/pilots/](docs/pilots/). It is a draft for Diego and Kean review. Kean has not built V2 yet; planning notes are not evidence of implemented features or approval of a new feature scope.
 
 ## Local development
 

@@ -5,7 +5,7 @@ This repository is the independent catering product. Diego owns the repository; 
 ## Start here
 
 - Read README.md, docs/CONTEXT.md, docs/BUILD_PLAN.md and docs/DESIGN.md.
-- The PRD is intentionally absent while Diego compares drafts. Once the merged product PRD is supplied, check its approval state with Diego/Kean before implementing feature scope. Do not import or publish a PRD on their behalf.
+- Read docs/PRD.md before feature work and check its approval state with Diego and Kean. The PRD is universal: never add customer-specific names, rules or data to it or to product code. Customer specifics belong in docs/pilots/ and that customer's setup.
 - Follow design-first, bounded task briefs and owner review. Inspect current changes and preserve unrelated work.
 
 ## Product and data boundaries
